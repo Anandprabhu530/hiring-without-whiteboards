@@ -49,13 +49,13 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Ad Hoc](https://adhoc.team) | Remote / Washington, DC | Technical take-home assignment, followed by multiple video calls that are discussions of technical background and experience.
 - [Adaface](https://www.adaface.com) | Remote/ Singapore, Singapore / Bangalore, India | Conversational on-the-job technical assessment, followed by video calls with technical lead and founders
 - [AdCellerant](https://adcellerant.com/career-job-listing/) | Denver, CO | Technical phone screen, 5-day take home code challenge, then on-site interview comprised of cultural and technical discussions
-- [Adeva](https://adevait.com) | New York, USA | 4 steps interviewing process that includes online coding assignment + lead engineer call.
+- [Adeva](https://adevait.com) 
 - [AdEx Network](https://www.adex.network) | Sofia, Bulgaria / Remote | Email screening process, followed by a take-home assignment
-- [Admiral](https://getadmiral.com) | Gainesville, FL / Remote | Intro phone call with hiring manager, take-home assignment, (mostly) non-technical on-site with team/leadership
+- [Admiral](https://getadmiral.com) 
 - [Adnymics](https://adnymics.com) | Munich, DE | Take home project, then work with the team for a day
 - [Adthena](http://adthena.com) | London, UK | Takehome project and discussion on-site
 - [AdWyze](https://angel.co/adwyze/jobs) | Bangalore, India | Short takehome project + (for fulltime) onsite pairing
-- [Adyen](https://www.adyen.com) | Amsterdam, NL | Take-home assignment, design discussion based on take home, culture fit etc. Provides visa sponsorship to the Netherlands.
+- [Adyen](https://www.adyen.com)
 - [Affinipay](https://www.affinipay.com) | Austin, TX | Short takehome project + video interview about coding with engineering manager
 - [Agency Enterprise Studio](https://ae.studio) | Remote / Los Angeles, CA / Florianópolis, Brazil | Live coding of a task you'd do daily
 - [Ageno](https://ageno.pl) | Bielsko-Biala, Poland | Simple Magento Take-home project and discussion on the real world problems.
@@ -65,13 +65,13 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Airtable](https://airtable.com/careers) | San Francisco, CA; Austin, TX; Mountain View, CA; New York, NY; Remote | Take home project that resembles a problem Airtable solves for. Five hour on-site which includes a discussion of the project, UI design, discussing architectural tradeoffs, and code debugging.
 - [Aiwip](http://aiwip.com) | London, UK | Skype/phone interview followed by takehome project or worksample (or whiteboard)
 - [Albert](https://jobs.lever.co/meetalbert/) | Los Angeles, CA | Discussion with senior engineer, and then practical pair programming related to my experience + the position
-- [Algolia](https://www.algolia.com/careers) | Paris, France / San Francisco, CA | Takehome project & Onsite discussions and presentation
+- [Algolia](https://www.algolia.com/careers) |
 - [all about apps GmbH](https://www.allaboutapps.at/jobs) | Vienna, Austria | 2-phase technical discussion & examination with department heads and management.
 - [Allegro](https://allegro.pl/praca) | Warsaw, Poland; Poznan, Poland; Torun, Poland; Wroclaw, Poland; Krakow, Poland | Take home, simple project. Series of 2 technical interviews (how to build things, how to solve specific, real world problem) and meeting with a team leader.
 - [Alluxi](https://www.alluxi.mx) | Monterrey, Mexico | Initial skype interview, technical interview with Senior engineer and work sample review.
 - [Almabase](https://www.almabase.com/careers#believe) | Bengaluru, India | Take-home assignment, design discussion based on take home, low level and high level design rounds based on real life problems, culture fit etc. during onsite.
-- [AlphaSights](https://www.alphasights.com/careers/open-roles/) | London, UK / New York, NY / Remote | Initial interview, pair programming then final round with general technical questions
-- [AMAGI](https://amagi.io) | Makati, Philippines | 1) Review of your resume, portfolio, and/or GitHub profile; 2) 1 hour discussion (in-person or Skype) about your goals, experience, personal culture, and how to apply technical solutions to real problems;
+- [AlphaSights](https://www.alphasights.com/careers/open-roles/) 
+- [AMAGI](https://amagi.io) | 
 - [Analytical Flavor Systems](https://gastrograph.com) | Manhattan, New York | Code sample or take-home project, both with discussion.
 - [Angaza](https://www.angaza.com/careers/) | San Francisco, CA | Take-home assignment with guaranteed feedback, on-site interviews involving actual day-to-day work
 - [Animech](https://careers.animech.com) | Uppsala, Sweden | Multiple interviews with technical staff with real problem discussions.
